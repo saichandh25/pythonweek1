@@ -18,7 +18,6 @@ class Employee:
 
 
 class Fulltime_employee(Employee):
-    def __init__(self):
         pass
 
 p1 = Fulltime_employee("sai","patchala",50," database")
